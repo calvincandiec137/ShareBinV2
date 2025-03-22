@@ -13,8 +13,6 @@ ShareBin is a simple file-sharing web application that allows users to upload fi
 
 ## Screenshots
 
-## Screenshots
-
 ### Upload Screen
 
 ![Upload Screen](Screenshots/Upload.png)
@@ -79,16 +77,6 @@ streamlit run app.py
 This will start the web app, and you can access it in your browser at `http://localhost:8501`.
 
 ---
-
-## Auto-Delete Old Files
-
-To remove files after 24 hours, a cleanup script is included.
-
-### **Run Cleanup Manually**
-
-```bash
-python cleanup.py
-```
 
 ## Contributing
 
