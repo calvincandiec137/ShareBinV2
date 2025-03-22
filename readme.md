@@ -13,9 +13,15 @@ ShareBin is a simple file-sharing web application that allows users to upload fi
 
 ## Screenshots
 
-_Upload files easily with the drag-and-drop feature._
+## Screenshots
 
-_Enter the unique code to download your file._
+### Upload Screen
+
+![Upload Screen](Screenshots/Upload.png)
+
+### Download Screen
+
+![Download Screen](Screenshots/Dowload.png)
 
 ---
 
