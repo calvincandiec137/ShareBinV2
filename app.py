@@ -5,7 +5,6 @@ import psycopg2
 from dotenv import load_dotenv
 
 st.set_page_config(page_title="ShareBin", page_icon="📂")
-st.set_page_config(page_title="Wide Mode App", layout="wide")
 load_dotenv("db.env")
 
 DB_URL = os.getenv("DATABASE_URL")
